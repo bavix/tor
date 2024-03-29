@@ -1,0 +1,8 @@
+SocksPort 0.0.0.0:9050
+SocksPolicy accept 192.168.0.0/16
+
+UseBridges 1
+ClientTransportPlugin obfs4 exec /usr/bin/lyrebird
+ExtORPort auto
+
+Bridge obfs4 ....
