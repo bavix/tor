@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.0.4 - 2024-04-23
+
+**Full Changelog**: https://github.com/bavix/tor/compare/v0.0.3...v0.0.4
+
 ## v0.0.3 - 2024-03-29
 
 **Full Changelog**: https://github.com/bavix/tor/compare/v0.0.2...v0.0.3
