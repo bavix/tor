@@ -1,5 +1,19 @@
 # Changelog
 
+## v0.2.0 - 2026-03-11
+
+### What's Changed
+
+* Bump bavix/.github/.github/workflows/changelog.yml from 0.4.0 to 0.4.1 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/bavix/tor/pull/10
+* Bump actions/checkout from 5 to 6 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/bavix/tor/pull/9
+* Bump docker/metadata-action from 5 to 6 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/bavix/tor/pull/15
+* Bump docker/build-push-action from 6 to 7 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/bavix/tor/pull/14
+* Bump docker/setup-buildx-action from 3 to 4 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/bavix/tor/pull/13
+* Bump docker/setup-qemu-action from 3 to 4 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/bavix/tor/pull/12
+* Bump docker/login-action from 3 to 4 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/bavix/tor/pull/11
+
+**Full Changelog**: https://github.com/bavix/tor/compare/v0.1.0...v0.2.0
+
 ## v0.1.0 - 2025-09-05
 
 ### What's Changed
